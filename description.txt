@@ -1,0 +1,29 @@
+Botger is a manager bot agent that will suggest decisions using artificial inteligence (reinforcement learning) based on data exploration and goals maximization.
+
+It will be use to any kind statistical model that represent an actual situation.
+
+The system will discover new ways for the factory to comunicate and organize itself, following industry 4.0 tendences.
+The statistical models will be used as simulators of real things.
+
+
+In a M2M (machine to machine comunication, or industrial iot) humans must touch it least as possible by definition since the machines will make decision by themselves, so we need machines to figure out the rules and the way they will act automatically.
+
+
+Botger will be useful since there is a high volume of information inside a company and there is many possibilities to combine them.
+
+
+Botger will also take into account humans inputs as part of the system in cases machines are not good enough to handle. So humans will act as interfaces with some situations so botget can make the optimal decision.
+
+
+Botger will probably have more impact on things such BI than industrial things, due to technologic stuff needd on industrial stuff that not much will have. And also will be dificult to scale
+
+botger will be able to take into account analysis of dificult stuff such employee retention, and any other stastical variable that may be taken into account to handle some problem
+
+use nlp to generate reports on what to do next
+
+
+use everything to help people make good decisions on their lifes
+
+people will contribute with the local options everyone would have
+
+people may tell their preferences in buying things etc what make they happy
